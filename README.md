@@ -1,15 +1,4 @@
-# ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
 # Mod-AHBOT
-
-## Important notes
-
-You have to use at least AzerothCore commit [9adba48](https://github.com/azerothcore/azerothcore-wotlk/commit/9adba482c236f1087d66a672e97a99f763ba74b3).
-
-If you use an old version of this module please update the table structure using this SQL statement:
-
-```sql
-ALTER TABLE `auctionhousebot` RENAME TO `mod_auctionhousebot`;
-```
 
 ## Description
 
