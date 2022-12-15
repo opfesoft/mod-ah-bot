@@ -28,6 +28,12 @@ Notes:
 
 ## Credits
 
+- [Stoabrogga](https://gitlab.com/Stoabrogga): further development
 - Ayase: ported the bot to AzerothCore
 - Other contributors (check the contributors list)
+
+## License
+
+- New source components and the old sources based on AzerothCore are released under the [GNU AGPLv3](agpl-3.0.md) license
+- The old sources based on MaNGOS/TrinityCore are released under the [GNU GPLv2](LICENSE.md) license
 
