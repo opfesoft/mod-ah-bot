@@ -1,4 +1,4 @@
-# Mod-AHBOT
+# Mod-AHBOT<br>(Discontinued as of 2024-07-29)
 
 ## Description
 
